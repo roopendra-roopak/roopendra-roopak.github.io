@@ -1,0 +1,36 @@
+name: Deploy Hugo Blox site to GitHub Pages
+
+on:
+  push:
+    branches:
+      - main  # Set this to your default branch
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Setup Hugo
+        uses: peaceiris/actions-hugo@v2
+        with:
+          hugo-version: '0.123.7'  # Replace with latest Hugo extended version if needed
+          extended: true
+
+      - name: Install Hugo Blox theme
+        run: git submodule update --init --recursive
+
+      - name: Build website
+        run: hugo --minify
+
+      - name: Deploy to GitHub Pages
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./public

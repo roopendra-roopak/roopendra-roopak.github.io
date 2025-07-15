@@ -5,7 +5,6 @@ last_name: Roopak
 superuser: true
 highlight_name: true
 role: Assistant Professor of Marketing Management & Assistant Dean, Office of Career Services (JGBS)
-url: https://jgu.edu.in/jgbs/faculty/roopendra-roopak
 
 organizations:
   - name: O.P. Jindal Global University

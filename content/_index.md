@@ -35,17 +35,17 @@ sections:
       title: 'My Research'
       subtitle: ''
       text: |-
-        My research primarily revolves around **customer engagement**, with a particular focus on its psychological and contextual underpinnings in digital environments.
+        My research primarily revolves around [**customer engagement**](/publication/roopak-framing-2024/), with a particular focus on its psychological and contextual underpinnings in digital environments.
         
-        I have examined **psychological antecedents** such as the **need for validation**, **social needs**, and **status needs** to understand what motivates consumers to participate in and contribute to **online brand communities (OBCs)**. Drawing on **Self-Determination Theory** and **Social Exchange Theory**, this work uncovers how intrinsic motivations drive sustained engagement behaviors in online brand communities ([journal article](/publication/roopak-engaged-2025/)).
+        I have investigated **psychological antecedents** such as the [**need for validation**](/publication/roopak-engaged-2025/), social needs, and status needs to understand what motivates consumers to engage in [**online brand communities (OBCs)**](/publication/roopak-engaged-2025/). Drawing on frameworks such as **Self-Determination Theory** and **Social Exchange Theory**, this research explores how intrinsic motivations shape participation in digital brand ecosystems.
         
-        To deepen conceptual clarity in the field, I conducted a **systematic and multimethod review** of customer engagement research. This study maps the evolving **framing strategies**, highlights key theoretical gaps, and identifies future research pathways to advance engagement scholarship across disciplines ([publication](/publication/roopak-framing-2024/)).
+        To advance conceptual clarity, I conducted a [**systematic and multimethod review**](/publication/roopak-framing-2024/) of customer engagement research. This study identifies evolving **framing strategies**, theoretical gaps, and future research trajectories across marketing and consumer behavior domains.
         
-        Building on these foundations, I have explored **digital storytelling** as a strategic tool for fostering engagement with **sustainability-oriented brands**. In a recent case study of [Rustic Hue®](/publication/roopak-eco-stories-2025/), I demonstrate how ethically rooted fashion brands leverage storytelling to build **cultural relevance**, **consumer trust**, and promote **environmental awareness** through narratives that center around upcycling, community collaborations, and heritage preservation.
+        In applied work, I examine how [**digital storytelling**](/publication/roopak-eco-stories-2025/) can foster engagement with sustainability-focused brands. My recent case study on *Rustic Hue®* illustrates how ethical fashion brands use storytelling to build [**cultural relevance**](https://en.wikipedia.org/wiki/Cultural_identity), enhance consumer trust, and communicate environmental practices such as upcycling and zero-waste production.
         
-        Currently, I am extending my work on engagement to the context of **sustainable consumer behavior** in tourism, particularly how **self-transcendent emotions** such as awe and compassion influence visitors' pro-environmental actions and **ESG engagement** with local communities and destinations.
+        Currently, I am expanding this line of inquiry to explore **sustainable consumer behavior** through the lens of **engagement**, examining how psychological drivers continue to shape pro-social and eco-conscious interactions in digital and experiential contexts.
         
-        In parallel, I am developing a **game-theoretic research stream** to model how **transparency in digital consent** affects platform strategy, user utility, and broader questions of consumer welfare and public policy—marking a methodological expansion into **behavioral strategy** and **digital ethics**.
+        In parallel, I am developing a theoretical stream using [**game theory**](/) to model platform strategies around [**digital consent transparency**](/), and examine its implications for user utility, firm incentives, and public policy.
     design:
       columns: '1'
   - block: collection

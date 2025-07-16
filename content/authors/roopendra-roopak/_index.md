@@ -15,7 +15,6 @@ interests:
   - Brand Communities
 
 education:
-  - education:
   - area: PhD in Marketing Management
     institution: Indian Institute of Management (IIM) Kashipur
     year: 2025

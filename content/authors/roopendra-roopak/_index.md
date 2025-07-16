@@ -16,7 +16,7 @@ interests:
 
 education:
   - area: PhD in Marketing Management
-    institution: Indian Institute of Management (IIM) Kashipur
+    institution: [Indian Institute of Management (IIM) Kashipur] (https://wwww.iimkashipur.ac.in)
     year: 2025
     summary:
       Thesis on CUSTOMER ENGAGEMENT IN ONLINE BRAND COMMUNITIES: A MULTI-METHOD INVESTIGATION OF PSYCHOLOGICAL ANTECEDENTS AND BRAND STRATEGIES. Supervised by [Prof. Somnath Chakrabarti] (https://www.iimkashipur.ac.in/faculty/faculty-directory/somnath-chakrabarti)

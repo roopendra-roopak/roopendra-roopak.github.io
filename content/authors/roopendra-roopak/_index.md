@@ -19,7 +19,8 @@ education:
     institution: Indian Institute of Management (IIM) Kashipur
     year: 2025
     summary:
-      Thesis on CUSTOMER ENGAGEMENT IN ONLINE BRAND COMMUNITIES: A MULTI-METHOD INVESTIGATION OF PSYCHOLOGICAL ANTECEDENTS AND BRAND STRATEGIES. Supervised by [Prof. Somnath Chakrabarti] (https://www.iimkashipur.ac.in/faculty/faculty-directory/somnath-chakrabarti)
+      PhD Thesis: Customer Engagement in Online Brand Communities: A Multi-Method Investigation of Psychological Antecedents and Brand Strategies
+      Supervisor: [Prof. Somnath Chakrabarti] (https://www.iimkashipur.ac.in/faculty/faculty-directory/somnath-chakrabarti)
   - area: B. Tech. in Mechanical Engineering
     institution: Lovely Professional University
     date_start: 2010

@@ -9,7 +9,7 @@ design:
   spacing: "6rem"
 
 sections:
-  - block: resume-biography
+  - block: resume-biography-3
     content:
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: roopendra-roopak
@@ -34,11 +34,17 @@ sections:
     content:
       title: Languages
       username: roopendra-roopak
+    design:
+      columns: 2
+      chart: true 
   - block: resume-skills
     content:
       title: Skills & Hobbies
       # Note: `username` refers to the user's folder name in `content/authors/`
       username: roopendra-roopak
+    design:
+      columns: 2
+      chart: true 
   - block: markdown
     content:
       title: 'My Research'

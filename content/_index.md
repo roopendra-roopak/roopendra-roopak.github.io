@@ -35,17 +35,17 @@ sections:
       title: 'My Research'
       subtitle: ''
       text: |-
-        My research centers on **customer engagement**, **online brand communities (OBCs)**, and **sustainable digital consumer behavior**.
-
-        I apply a blend of **qualitative** (e.g., phenomenological interviews, Delphi technique) and **quantitative** (e.g., surveys, SEM, experimental design) methods to explore how psychological and contextual factors influence brand-consumer relationships in digital environments.
-
-        One of my recent works explores how self-transcendent emotions influence consumers' sustainable actions in tourism through **digital storytelling** — [read here](/publication/roopak-eco-stories-2025/).  
+        My research primarily revolves around **customer engagement**, with a particular focus on its psychological and contextual underpinnings in digital environments.
         
-        My paper on **framing effects in customer engagement research** offers a systematic review and identifies new conceptual pathways — [view publication](/publication/roopak-framing-2024/).
-
-        I also study **psychological antecedents** like the need for validation and social connection in OBCs. You can explore those findings in [this journal article](/publication/roopak-engaged-2025/).
-
-        I am currently building a game-theoretic research stream on **digital consent transparency**, and welcome collaborations at this intersection of behavioral marketing, strategy, and public policy.
+        I have examined **psychological antecedents** such as the **need for validation**, **social needs**, and **status needs** to understand what motivates consumers to participate in and contribute to **online brand communities (OBCs)**. Drawing on **Self-Determination Theory** and **Social Exchange Theory**, this work uncovers how intrinsic motivations drive sustained engagement behaviors in online brand communities ([journal article](/publication/roopak-engaged-2025/)).
+        
+        To deepen conceptual clarity in the field, I conducted a **systematic and multimethod review** of customer engagement research. This study maps the evolving **framing strategies**, highlights key theoretical gaps, and identifies future research pathways to advance engagement scholarship across disciplines ([publication](/publication/roopak-framing-2024/)).
+        
+        Building on these foundations, I have explored **digital storytelling** as a strategic tool for fostering engagement with **sustainability-oriented brands**. In a recent case study of [Rustic Hue®](/publication/roopak-eco-stories-2025/), I demonstrate how ethically rooted fashion brands leverage storytelling to build **cultural relevance**, **consumer trust**, and promote **environmental awareness** through narratives that center around upcycling, community collaborations, and heritage preservation.
+        
+        Currently, I am extending my work on engagement to the context of **sustainable consumer behavior** in tourism, particularly how **self-transcendent emotions** such as awe and compassion influence visitors' pro-environmental actions and **ESG engagement** with local communities and destinations.
+        
+        In parallel, I am developing a **game-theoretic research stream** to model how **transparency in digital consent** affects platform strategy, user utility, and broader questions of consumer welfare and public policy—marking a methodological expansion into **behavioral strategy** and **digital ethics**.
     design:
       columns: '1'
   - block: collection

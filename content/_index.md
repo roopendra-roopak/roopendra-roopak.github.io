@@ -41,24 +41,24 @@ sections:
         
         To advance conceptual clarity, I conducted a [**systematic and multimethod review**](/publication/roopak-framing-2024/) of customer engagement research. This study identifies evolving **framing strategies**, theoretical gaps, and future research trajectories across marketing and consumer behavior domains.
         
-        In applied work, I examine how [**digital storytelling**](/publication/roopak-eco-stories-2025/) can foster engagement with sustainability-focused brands. My recent case study on *Rustic Hue®* illustrates how ethical fashion brands use storytelling to build [**cultural relevance**](https://en.wikipedia.org/wiki/Cultural_identity), enhance consumer trust, and communicate environmental practices such as upcycling and zero-waste production.
+        In applied work, I examine how [**digital storytelling**](/publication/roopak-eco-stories-2025/) can foster engagement with sustainability-focused brands. My recent case study on *Rustic Hue®* illustrates how ethical fashion brands use storytelling to build **cultural relevance**, enhance consumer trust, and communicate environmental practices such as upcycling and zero-waste production.
         
         Currently, I am expanding this line of inquiry to explore **sustainable consumer behavior** through the lens of **engagement**, examining how psychological drivers continue to shape pro-social and eco-conscious interactions in digital and experiential contexts.
         
         In parallel, I am developing a theoretical stream using [**game theory**](/) to model platform strategies around [**digital consent transparency**](/), and examine its implications for user utility, firm incentives, and public policy.
     design:
       columns: '1'
-  - block: collection
-    id: papers
-    content:
-      title: Featured Publications
-      filters:
-        folders:
-          - publication
-        featured_only: true
-    design:
-      view: article-grid
-      columns: 2
+  - #block: collection
+    #id: papers
+    #content:
+    #  title: Featured Publications
+    #  filters:
+    #    folders:
+    #      - publication
+    #    featured_only: true
+    #design:
+    #  view: article-grid
+    #  columns: 2
   - block: collection
     content:
       title: Recent Publications

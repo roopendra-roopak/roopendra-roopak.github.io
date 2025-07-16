@@ -4,7 +4,7 @@ first_name: Roopendra
 last_name: Roopak
 superuser: true
 highlight_name: true
-role: Assistant Professor of Marketing Management & Assistant Dean, Office of Career Services (JGBS)
+role: Assistant Professor of Marketing & Assistant Dean, Office of Career Services (JGBS)
 
 organizations:
   - name: O.P. Jindal Global University
@@ -75,10 +75,4 @@ status:
 ---
 
 ## About Me
-Dr. Roopendra Roopak is an Assistant Professor of Marketing at Jindal Global Business School, O.P. Jindal Global University. He holds a PhD in Marketing Management from the Indian Institute of Management (IIM) Kashipur, where his doctoral research focused on customer engagement within online brand communities, with an emphasis on psychological and contextual drivers.
-
-His research interests lie at the intersection of digital marketing, customer engagement, and brand communities. Dr. Roopak has published in reputed peer-reviewed journals, including the *Journal of Retailing and Consumer Services* and *VINE Journal of Information and Knowledge Management Systems*. He regularly presents his work at leading national and international academic conferences, including the ISMS Marketing Science Conference and the POMS International Conference. His work aims to bridge academic rigour with managerial relevance and contribute meaningfully to scholarly and practitioner discourse.
-
-At JGBS, Dr. Roopak teaches a variety of undergraduate and postgraduate courses, including Digital Marketing, Marketing Analytics, Social Media Marketing, and Marketing Management. His teaching philosophy emphasizes the integration of theoretical foundations with contemporary industry practices, fostering applied learning and critical thinking among students.
-
-Prior to entering academia, Dr. Roopak gained valuable experience working on projects of global enterprise technology companies.
+Dr. Roopendra Roopak is Assistant Professor of Marketing at Jindal Global Business School. He holds a PhD from IIM Kashipur, where his research focused on customer engagement in online brand communities. His work spans digital marketing, brand communities, and sustainable consumer behavior, with publications in peer-reviewed journals and presentations at leading academic conferences.

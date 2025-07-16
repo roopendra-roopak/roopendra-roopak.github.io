@@ -9,7 +9,7 @@ design:
   spacing: "6rem"
 
 sections:
-  - block: profile
+  - block: resume-biography-1
     content:
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: roopendra-roopak
@@ -37,7 +37,7 @@ sections:
       text: |-
         My research primarily revolves around [**customer engagement**](/publication/roopak-framing-2024/), with a particular focus on its psychological and contextual underpinnings in digital environments.
         
-        I have investigated **psychological antecedents** such as the [**need for validation**](/publication/roopak-engaged-2025/), social needs, and status needs to understand what motivates consumers to engage in [**online brand communities (OBCs)**](/publication/roopak-engaged-2025/). Drawing on frameworks such as **Self-Determination Theory** and **Social Exchange Theory**, this research explores how intrinsic motivations shape participation in digital brand ecosystems.
+        I have investigated **psychological antecedents** such as the [**need for validation**](/publication/roopak-engaged-2025/), social needs, and status needs to understand what motivates consumers to engage in [**online brand communities (OBCs)**](/publication/roopak-engaged-2025/). Drawing on frameworks such as **Self-Determination Theory** and **Social Exchange Theory**. This research explores how intrinsic motivations shape participation in online brand communities.
         
         To advance conceptual clarity, I conducted a [**systematic and multimethod review**](/publication/roopak-framing-2024/) of customer engagement research. This study identifies evolving **framing strategies**, theoretical gaps, and future research trajectories across marketing and consumer behavior domains.
         

@@ -80,4 +80,4 @@ His research interests lie at the intersection of digital marketing, customer en
 
 At JGBS, Dr. Roopak teaches a variety of undergraduate and postgraduate courses, including Digital Marketing, Marketing Analytics, Social Media Marketing, and Marketing Management. His teaching philosophy emphasizes the integration of theoretical foundations with contemporary industry practices, fostering applied learning and critical thinking among students.
 
-Prior to entering academia, Dr. Roopak gained valuable experience working on projects of global enterprise technology 
+Prior to entering academia, Dr. Roopak gained valuable experience working on projects of global enterprise technology companies.

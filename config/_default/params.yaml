@@ -1,7 +1,6 @@
 # SITE SETUP
 # Guide: https://docs.hugoblox.com/tutorial/
 # Documentation: https://docs.hugoblox.com/
-# This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 # Appearance
 appearance:
@@ -13,11 +12,11 @@ marketing:
   seo:
     site_type: Person
     local_business_type: ''
-    org_name: ''
-    description: 'The highly-customizable Hugo Academic theme powered by Hugo Blox Builder. Easily create your personal academic website.'
-    twitter: 'GetResearchDev'
+    org_name: "O.P. Jindal Global University"
+    description: "Dr. Roopendra Roopak is an academic specializing in customer engagement, brand communities, and sustainable consumer behavior."
+    #twitter: 'RoopendraRoopak'  # Optional: Add your real Twitter/X handle
   analytics:
-    google_analytics: ''
+    google_analytics: ''  # Optional: Add your GA code
     baidu_tongji: ''
     plausible: ''
     fathom: ''
@@ -35,12 +34,12 @@ header:
     show_search: true
     show_theme_chooser: true
     logo:
-      text: "Your Name"
+      text: "Dr. Roopendra Roopak"
 
 # Site footer
 footer:
   copyright:
-    notice: '© {year} Me. This work is licensed under {license}'
+    notice: '© {year} Dr. Roopendra Roopak. This work is licensed under {license}'
     license:
       enable: true
       allow_derivatives: false

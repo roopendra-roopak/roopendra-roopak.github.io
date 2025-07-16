@@ -12,9 +12,9 @@ marketing:
   seo:
     site_type: Person
     local_business_type: ''
-    org_name: "O.P. Jindal Global University"
-    description: "Dr. Roopendra Roopak is an academic specializing in customer engagement, brand communities, and sustainable consumer behavior."
-    #twitter: 'RoopendraRoopak'  # Optional: Add your real Twitter/X handle
+    org_name: ''
+    description: "Dr. Roopendra Roopak is an academic and Assistant Professor of Marketing at O.P. Jindal Global University specializing in customer engagement, brand communities, and sustainable consumer behavior."
+    twitter: roopakRoopendra  # Optional: Add your real Twitter/X handle
   analytics:
     google_analytics: 'G-Y7HMS4B2CG'  # Optional: Add your GA code
     baidu_tongji: ''
@@ -22,7 +22,7 @@ marketing:
     fathom: ''
     pirsch: ''
   verification:
-    google: 'google-site-verification=Yjg-u7ibITaOW0AMKNB30pi2ozH1LZYmIndFKZqb1Cs'
+    google: google-site-verification=Yjg-u7ibITaOW0AMKNB30pi2ozH1LZYmIndFKZqb1Cs
     baidu: ''
 
 # Site header

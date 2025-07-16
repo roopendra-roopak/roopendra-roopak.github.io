@@ -48,17 +48,17 @@ sections:
         In parallel, I am developing a theoretical stream using [**game theory**](/) to model platform strategies around [**digital consent transparency**](/), and examine its implications for user utility, firm incentives, and public policy.
     design:
       columns: '1'
-  - #block: collection
-    #id: papers
-    #content:
-    #  title: Featured Publications
-    #  filters:
-    #    folders:
-    #      - publication
-    #    featured_only: true
-    #design:
-    #  view: article-grid
-    #  columns: 2
+# - block: collection
+#   id: papers
+#   content:
+#     title: Featured Publications
+#     filters:
+#       folders:
+#         - publication
+#       featured_only: true
+#   design:
+#     view: article-grid
+#     columns: 2
   - block: collection
     content:
       title: Recent Publications

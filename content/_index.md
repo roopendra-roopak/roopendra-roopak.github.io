@@ -88,43 +88,35 @@ sections:
   - block: markdown
     id: contact
     content:
-      title: 'Contact & Connect'
-      subtitle: ''
-      text: |-
-        I am always open to academic conversations, collaborations, or coffee-fueled ideas.
-
-        <div class="flex flex-wrap justify-start items-center gap-6 mt-6 text-2xl">
-
-          <a href="mailto:rupendra.r@gmail.com" target="_blank" aria-label="Email" class="hover:text-blue-600">
-            <i data-icon="hero/envelope"></i>
-          </a>
-
-          <a href="https://www.linkedin.com/in/roopendra-roopak/" target="_blank" aria-label="LinkedIn" class="hover:text-blue-600">
-            <i data-icon="brands/linkedin"></i>
-          </a>
-
-          <a href="https://scholar.google.com/citations?user=stFFZ5oAAAAJ" target="_blank" aria-label="Google Scholar" class="hover:text-green-600">
-            <i data-icon="academicons/google-scholar"></i>
-          </a>
-
-          <a href="https://www.researchgate.net/profile/Roopendra-Roopak" target="_blank" aria-label="ResearchGate" class="hover:text-blue-600">
-            <i data-icon="academicons/researchgate"></i>
-          </a>
-
-          <a href="https://orcid.org/0000-0001-7122-2434" target="_blank" aria-label="ORCID" class="hover:text-green-600">
-            <i data-icon="academicons/orcid"></i>
-          </a>
-
-          <a href="https://x.com/roopakRoopendra" target="_blank" aria-label="X (Twitter)" class="hover:text-black">
-            <i data-icon="brands/x"></i>
-          </a>
-
-          <a href="https://www.instagram.com/roopendra.roopak/" target="_blank" aria-label="Instagram" class="hover:text-pink-500">
-            <i data-icon="brands/instagram"></i>
-          </a>
-        </div>
+      title: "Contact & Connect"
+      text: "I am always open to academic conversations, collaborations, or coffee-fueled ideas."
     design:
       columns: '1'
+# 2. Social icons as buttons
+  - block: cta-button-list
+    content:
+      buttons:
+        - text: Email
+          url: mailto:rupendra.r@gmail.com
+          icon: heroicons-outline/envelope
+        - text: LinkedIn
+          url: https://www.linkedin.com/in/roopendra-roopak/
+          icon: brands/linkedin
+        - text: Scholar
+          url: https://scholar.google.com/citations?user=stFFZ5oAAAAJ
+          icon: academicons/google-scholar
+        - text: ResearchGate
+          url: https://www.researchgate.net/profile/Roopendra-Roopak
+          icon: academicons/researchgate
+        - text: ORCID
+          url: https://orcid.org/0000-0001-7122-2434
+          icon: academicons/orcid
+        - text: X
+          url: https://x.com/roopakRoopendra
+          icon: brands/x
+        - text: Instagram
+          url: https://www.instagram.com/dr.roopendra.roopak/
+          icon: brands/instagram
 #  - block: collection
 #    id: talks
 #    content:

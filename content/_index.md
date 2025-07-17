@@ -86,17 +86,17 @@ sections:
     design:
       view: citation
   - block: markdown
-  id: contact
-  content:
-    title: 📬 Contact & Connect
-    body: |
-      I am always open to academic conversations, collaborations, or coffee-fueled ideas.  
-      
-      **📧 Email:** [rupendra.r@gmail.com](mailto:rupendra.r@gmail.com)  
-      **🔗 LinkedIn:** [linkedin.com/in/roopendra-roopak](https://www.linkedin.com/in/roopendra-roopak/)  
-      **🎓 Google Scholar:** [scholar profile](https://scholar.google.com/citations?user=stFFZ5oAAAAJ)  
-      **🧪 ResearchGate:** [researchgate.net/profile/Roopendra-Roopak](https://www.researchgate.net/profile/Roopendra-Roopak)  
-      **🆔 ORCID:** [0000-0001-7122-2434](https://orcid.org/0000-0001-7122-2434)
+    id: contact
+    content:
+      title: 📬 Contact & Connect
+      body: |
+        I am always open to academic conversations, collaborations, or coffee-fueled ideas.  
+        
+        **📧 Email:** [rupendra.r@gmail.com](mailto:rupendra.r@gmail.com)  
+        **🔗 LinkedIn:** [linkedin.com/in/roopendra-roopak](https://www.linkedin.com/in/roopendra-roopak/)  
+        **🎓 Google Scholar:** [scholar profile](https://scholar.google.com/citations?user=stFFZ5oAAAAJ)  
+        **🧪 ResearchGate:** [researchgate.net/profile/Roopendra-Roopak](https://www.researchgate.net/profile/Roopendra-Roopak)  
+        **🆔 ORCID:** [0000-0001-7122-2434](https://orcid.org/0000-0001-7122-2434)
 #  - block: collection
 #    id: talks
 #    content:

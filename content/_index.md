@@ -91,52 +91,40 @@ sections:
       title: 'Contact & Connect'
       subtitle: ''
       text: |-
-        <div class="grid grid-cols-1 md:grid-cols-2 gap-6 items-start">
-          <!-- LEFT SIDE -->
-          <div class="space-y-4">
-            <div class="flex items-center space-x-3">
-              <i data-icon="hero/sparkles" class="text-3xl text-yellow-500"></i>
-              <h2 class="text-2xl font-bold">Let’s Connect</h2>
-            </div>
-            <p class="text-md text-gray-600">
-              I am always open to academic conversations, collaborations, or coffee-fueled ideas.
-            </p>
-          </div>
+        I am always open to academic conversations, collaborations, or coffee-fueled ideas.
 
-          <!-- RIGHT SIDE -->
-          <div class="space-y-4">
-            <div class="flex items-center space-x-3">
-              <i data-icon="hero/user-circle" class="text-3xl text-blue-600"></i>
-              <h3 class="text-xl font-bold">Roopendra Roopak</h3>
-            </div>
+        <div class="flex flex-wrap justify-start items-center gap-6 mt-6 text-2xl">
 
-            <div class="space-y-2">
-              <a href="mailto:rupendra.r@gmail.com" class="flex items-center space-x-2 hover:text-blue-600">
-                <i data-icon="hero/envelope" class="text-base"></i><span>Email</span>
-              </a>
-              <a href="https://www.linkedin.com/in/roopendra-roopak/" class="flex items-center space-x-2 hover:text-blue-600">
-                <i data-icon="brands/linkedin" class="text-base"></i><span>LinkedIn</span>
-              </a>
-              <a href="https://scholar.google.com/citations?user=stFFZ5oAAAAJ" class="flex items-center space-x-2 hover:text-blue-600">
-                <i data-icon="academicons/google-scholar" class="text-base"></i><span>Google Scholar</span>
-              </a>
-              <a href="https://www.researchgate.net/profile/Roopendra-Roopak" class="flex items-center space-x-2 hover:text-blue-600">
-                <i data-icon="academicons/researchgate" class="text-base"></i><span>ResearchGate</span>
-              </a>
-              <a href="https://orcid.org/0000-0001-7122-2434" class="flex items-center space-x-2 hover:text-blue-600">
-                <i data-icon="academicons/orcid" class="text-base"></i><span>ORCID</span>
-              </a>
-              <a href="https://x.com/roopakRoopendra" class="flex items-center space-x-2 hover:text-blue-600">
-                <i data-icon="brands/x" class="text-base"></i><span>X (Twitter)</span>
-              </a>
-              <a href="https://www.instagram.com/dr.roopendra.roopak/" class="flex items-center space-x-2 hover:text-pink-600">
-                <i data-icon="brands/instagram" class="text-base"></i><span>Instagram</span>
-              </a>
-            </div>
-          </div>
+          <a href="mailto:rupendra.r@gmail.com" target="_blank" aria-label="Email" class="hover:text-blue-600">
+            <i data-icon="hero/envelope"></i>
+          </a>
+
+          <a href="https://www.linkedin.com/in/roopendra-roopak/" target="_blank" aria-label="LinkedIn" class="hover:text-blue-600">
+            <i data-icon="brands/linkedin"></i>
+          </a>
+
+          <a href="https://scholar.google.com/citations?user=stFFZ5oAAAAJ" target="_blank" aria-label="Google Scholar" class="hover:text-green-600">
+            <i data-icon="academicons/google-scholar"></i>
+          </a>
+
+          <a href="https://www.researchgate.net/profile/Roopendra-Roopak" target="_blank" aria-label="ResearchGate" class="hover:text-blue-600">
+            <i data-icon="academicons/researchgate"></i>
+          </a>
+
+          <a href="https://orcid.org/0000-0001-7122-2434" target="_blank" aria-label="ORCID" class="hover:text-green-600">
+            <i data-icon="academicons/orcid"></i>
+          </a>
+
+          <a href="https://x.com/roopakRoopendra" target="_blank" aria-label="X (Twitter)" class="hover:text-black">
+            <i data-icon="brands/x"></i>
+          </a>
+
+          <a href="https://www.instagram.com/roopendra.roopak/" target="_blank" aria-label="Instagram" class="hover:text-pink-500">
+            <i data-icon="brands/instagram"></i>
+          </a>
         </div>
     design:
-      columns: '1'
+    columns: '1'
 #  - block: collection
 #    id: talks
 #    content:

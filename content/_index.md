@@ -124,7 +124,7 @@ sections:
           </a>
         </div>
     design:
-    columns: '1'
+      columns: '1'
 #  - block: collection
 #    id: talks
 #    content:

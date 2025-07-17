@@ -18,25 +18,24 @@ education:
   - area: PhD in Marketing Management
     institution: Indian Institute of Management (IIM) Kashipur
     year: 2025
-    thesis_title: "Customer Engagement in Online Brand Communities: A Multi-Method Investigation of Psychological Antecedents and Brand Strategies"
-    thesis_summary: "Explored customer engagement in online brand communities by identifying Need for Validation (NFV) as a key psychological driver. Using a mixed-method approach and the SOR framework, the study developed and validated strategies for brands to foster validation-driven engagement and long-term participation."
-    supervisor: "Prof. Somnath Chakrabarti — https://www.iimkashipur.ac.in/faculty/faculty-directory/somnath-chakrabarti"
+    thesis_title: Customer Engagement in Online Brand Communities: A Multi-Method Investigation of Psychological Antecedents and Brand Strategies
+    thesis_summary: Explored customer engagement in online brand communities by identifying Need for Validation (NFV) as a key psychological driver. Using a mixed-method approach and the SOR framework, the study developed and validated strategies for brands to foster validation-driven engagement and long-term participation.
+    supervisor: Prof. Somnath Chakrabarti — https://www.iimkashipur.ac.in/faculty/faculty-directory/somnath-chakrabarti
   - area: B. Tech. in Mechanical Engineering
     institution: Lovely Professional University
-    date_start: 2010
-    date_end: 2014
+    year: 2014
 
 skills:
   - name: Structural Equation Modelling
-    level: 90
+    percent: 90
     icon: circle-stack
   - name: Qualitative Methodology
-    level: 60
+    percent: 60
   - name: Econometrics
-    level: 50
+    percent: 50
     icon: chart-bar
   - name: R
-    level: 70
+    percent: 70
     icon: code-bracket
 
 social:
@@ -54,7 +53,7 @@ social:
     link: https://orcid.org/0000-0001-7122-2434
 
 # Short summary for blog post footer
-bio: Roopendra Roopak is an Assistant Professor of Marketing Management and Assistant Dean at JGBS, specializing in customer engagement and brand communities.
+bio: Roopendra Roopak is an Assistant Professor of Marketing and Assistant Dean at JGBS, specializing in customer engagement and brand communities.
 
 designations:
   - Assistant Professor

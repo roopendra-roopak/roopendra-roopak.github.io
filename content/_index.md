@@ -85,39 +85,29 @@ sections:
         exclude_featured: false
     design:
       view: citation
-  - block: contact
+  - block: card-grid
     id: contact
     content:
-      title: "Connect with Me"
-      text: |
-        I am always happy to talk about research, collaboration, or anything marketing-related.  
-        Feel free to reach out or follow me on these platforms:
-    contacts:
-      - icon: at-symbol
-        name: Email
-        link: mailto:rupendra.r@gmail.com
-
-      - icon: google-scholar
-        name: Google Scholar
-        link: https://scholar.google.com/citations?user=stFFZ5oAAAAJ
-
-      - icon: orcid
-        name: ORCID
-        link: https://orcid.org/0000-0001-7122-2434
-
-      - icon: researchgate
-        name: ResearchGate
-        link: https://www.researchgate.net/profile/Roopendra-Roopak
-
-      - icon: linkedin
-        name: LinkedIn
-        link: https://www.linkedin.com/in/roopendra-roopak/
-
-      - icon: github
-        name: GitHub
-        link: https://github.com/roopendra-roopak
+      title: Connect with Me
+      cards:
+        - title: Email
+          icon: hero/envelope
+          link: mailto:rupendra.r@gmail.com
+        - title: Google Scholar
+          icon: brands/google-scholar
+          link: https://scholar.google.com/citations?user=stFFZ5oAAAAJ
+        - title: LinkedIn
+          icon: brands/linkedin
+          link: https://www.linkedin.com/in/roopendra-roopak/
+        - title: ResearchGate
+          icon: academicons/researchgate
+          link: https://www.researchgate.net/profile/Roopendra-Roopak
+        - title: ORCID
+          icon: brands/orcid
+          link: https://orcid.org/0000-0001-7122-2434
     design:
-      columns: 2
+      columns: 3
+      align: center
 #  - block: collection
 #    id: talks
 #    content:

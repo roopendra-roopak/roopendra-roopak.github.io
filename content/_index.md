@@ -96,27 +96,22 @@ sections:
   - block: cta-button-list
     content:
       buttons:
-        - text: Email
-          url: mailto:rupendra.r@gmail.com
-          icon: heroicons-outline/envelope
-        - text: LinkedIn
-          url: https://www.linkedin.com/in/roopendra-roopak/
-          icon: brands/linkedin
-        - text: Scholar
-          url: https://scholar.google.com/citations?user=stFFZ5oAAAAJ
-          icon: academicons/google-scholar
-        - text: ResearchGate
-          url: https://www.researchgate.net/profile/Roopendra-Roopak
-          icon: academicons/researchgate
-        - text: ORCID
-          url: https://orcid.org/0000-0001-7122-2434
-          icon: academicons/orcid
-        - text: X
-          url: https://x.com/roopakRoopendra
-          icon: brands/x
-        - text: Instagram
+        - icon: at-symbol
+          url: mailto:rupendra.r@gmail.com          
+        - icon: brands/linkedin
+          url: https://www.linkedin.com/in/roopendra-roopak/          
+        - icon: academicons/google-scholar
+          url: https://scholar.google.com/citations?user=stFFZ5oAAAAJ          
+        - icon: academicons/researchgate
+          url: https://www.researchgate.net/profile/Roopendra-Roopak          
+        - icon: academicons/orcid
+          url: https://orcid.org/0000-0001-7122-2434          
+        - icon: brands/x
+          url: https://x.com/roopakRoopendra          
+        - icon: brands/instagram
           url: https://www.instagram.com/dr.roopendra.roopak/
-          icon: brands/instagram
+    design:
+      layout: horizontal
 #  - block: collection
 #    id: talks
 #    content:

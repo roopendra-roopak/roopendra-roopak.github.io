@@ -12,7 +12,7 @@ organizations:
 
 interests:
   - Customer Engagement
-  - Brand Communities
+  - Brand Community
 
 education:
   - area: PhD in Marketing Management

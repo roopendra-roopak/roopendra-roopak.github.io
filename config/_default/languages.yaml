@@ -5,6 +5,22 @@
 # Default language
 en:
   languageCode: en-us
+  title: Dr. Roopendra Roopak
+  params:
+    description: Academic site of Dr. Roopendra Roopak, Assistant Professor of Marketing at O.P. Jindal Global University. Research interests include customer engagement, online brand communities, sustainable consumer behaviour, and game theory in marketing."
+    keywords: 
+      - Marketing
+      - customer engagement
+      - online brand communities
+      - sustainable consumption
+      - consumer psychology
+      - behavioural marketing
+      - game theory in marketing
+      - Roopendra Roopak
+      - O.P. Jindal Global University
+      - Assistant Professor of Marketing
+      - Jindal Global Business School
+      - JGBS
   # Uncomment for multi-lingual sites, and move English content into `en` sub-folder.
   #contentDir: content/en
 

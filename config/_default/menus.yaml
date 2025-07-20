@@ -28,3 +28,6 @@ main:
   - name: Contact
     url: /#contact
     weight: 20
+  - name = "Blog"
+    url = "/post/"
+    weight = 40

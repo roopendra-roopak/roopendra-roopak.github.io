@@ -54,4 +54,7 @@ markup:
 security:
   _merge: deep
 sitemap:
-  _merge: deep
+  changefreq: 'monthly'
+  filename: 'sitemap.xml'
+  priority: 0.5
+

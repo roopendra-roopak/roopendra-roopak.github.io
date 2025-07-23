@@ -2,6 +2,8 @@
 # Guide: https://docs.hugoblox.com/tutorial/
 # Documentation: https://docs.hugoblox.com/
 
+default_author: roopendra-roopak
+
 # Appearance
 appearance:
   mode: system

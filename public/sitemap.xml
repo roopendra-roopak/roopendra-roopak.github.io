@@ -82,14 +82,16 @@
     <lastmod>2024-06-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/experience/</loc>
-    <lastmod>2023-10-24T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/blog/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/post/why-validation-matters-in-obcs/</loc>
+    <loc>http://localhost:1313/blog/customer-engagement/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/post/</loc>
+    <loc>http://localhost:1313/blog/digital-marketing/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/blog/brand-communities/</loc>
     <changefreq>weekly</changefreq>
   </url>
 </urlset>

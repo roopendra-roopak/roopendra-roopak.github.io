@@ -27,25 +27,6 @@ This is the academic website of **Dr. Roopendra Roopak**, built using [Hugo](htt
 
 ---
 
-## 🚀 Running Locally
-
-```bash
-hugo server
-Visit http://localhost:1313 in your browser to view the site.
-
-To build the site for production:
-
-hugo --minify
-📁 Folder Structure
-
-.
-├── content/          # Academic content (publications, blog, etc.)
-├── config/           # Site configuration
-├── static/           # Static files (robots.txt, images, etc.)
-├── themes/           # Wowchemy theme as Hugo module
-├── hugo.yaml         # Main config file
-└── README.md         # This file
-
 🧑‍💻 Contact
 
 Dr. Roopendra Roopak
@@ -53,3 +34,5 @@ Dr. Roopendra Roopak
 🔗 **[Google Scholar]** (https://scholar.google.com/citations?user=stFFZ5oAAAAJ)
 🔗 **[LinkedIn]** (https://www.linkedin.com/in/roopendra-roopak/)
 🔗 **[ORCID]** (https://orcid.org/0000-0001-7122-2434)
+
+---

@@ -30,9 +30,9 @@ This is the academic website of **Dr. Roopendra Roopak**, built using [Hugo](htt
 🧑‍💻 Contact
 
 Dr. Roopendra Roopak
-📧 **[Email Me]** (mailto:rupendra.r@gmail.com)
-🔗 **[Google Scholar]** (https://scholar.google.com/citations?user=stFFZ5oAAAAJ)
-🔗 **[LinkedIn]** (https://www.linkedin.com/in/roopendra-roopak/)
-🔗 **[ORCID]** (https://orcid.org/0000-0001-7122-2434)
+📧 [Email Me] (mailto:rupendra.r@gmail.com)
+🔗 [Google Scholar] (https://scholar.google.com/citations?user=stFFZ5oAAAAJ)
+🔗 [LinkedIn] (https://www.linkedin.com/in/roopendra-roopak/)
+🔗 [ORCID] (https://orcid.org/0000-0001-7122-2434)
 
 ---

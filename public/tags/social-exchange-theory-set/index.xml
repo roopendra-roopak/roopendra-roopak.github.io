@@ -1,1 +1,24 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Social Exchange Theory (SET) | Dr. Roopendra Roopak</title><link>https://roopendra-roopak.github.io/tags/social-exchange-theory-set/</link><atom:link href="https://roopendra-roopak.github.io/tags/social-exchange-theory-set/index.xml" rel="self" type="application/rss+xml"/><description>Social Exchange Theory (SET)</description><generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Oct 2025 00:00:00 +0000</lastBuildDate><image><url>https://roopendra-roopak.github.io/media/icon_hu16909730233635730475.png</url><title>Social Exchange Theory (SET)</title><link>https://roopendra-roopak.github.io/tags/social-exchange-theory-set/</link></image><item><title>Engaged to Gain: How psychological needs drive integrative benefits via online customer engagement</title><link>https://roopendra-roopak.github.io/publication/roopak-engaged-2025/</link><pubDate>Wed, 01 Oct 2025 00:00:00 +0000</pubDate><guid>https://roopendra-roopak.github.io/publication/roopak-engaged-2025/</guid><description/></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Social Exchange Theory (SET) | Dr. Roopendra Roopak</title>
+    <link>http://localhost:1313/tags/social-exchange-theory-set/</link>
+      <atom:link href="http://localhost:1313/tags/social-exchange-theory-set/index.xml" rel="self" type="application/rss+xml" />
+    <description>Social Exchange Theory (SET)</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Oct 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu16909730233635730475.png</url>
+      <title>Social Exchange Theory (SET)</title>
+      <link>http://localhost:1313/tags/social-exchange-theory-set/</link>
+    </image>
+    
+    <item>
+      <title>Engaged to Gain: How psychological needs drive integrative benefits via online customer engagement</title>
+      <link>http://localhost:1313/publication/roopak-engaged-2025/</link>
+      <pubDate>Wed, 01 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/roopak-engaged-2025/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

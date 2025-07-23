@@ -1,16 +1,1 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Online Brand Communities | Dr. Roopendra Roopak</title>
-    <link>http://localhost:1313/blog/brand-communities/</link>
-      <atom:link href="http://localhost:1313/blog/brand-communities/index.xml" rel="self" type="application/rss+xml" />
-    <description>Online Brand Communities</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language>
-    <image>
-      <url>http://localhost:1313/media/icon_hu16909730233635730475.png</url>
-      <title>Online Brand Communities</title>
-      <link>http://localhost:1313/blog/brand-communities/</link>
-    </image>
-    
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Online Brand Communities | Dr. Roopendra Roopak</title><link>https://roopendra-roopak.github.io/blog/brand-communities/</link><atom:link href="https://roopendra-roopak.github.io/blog/brand-communities/index.xml" rel="self" type="application/rss+xml"/><description>Online Brand Communities</description><generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><image><url>https://roopendra-roopak.github.io/media/icon_hu16909730233635730475.png</url><title>Online Brand Communities</title><link>https://roopendra-roopak.github.io/blog/brand-communities/</link></image></channel></rss>

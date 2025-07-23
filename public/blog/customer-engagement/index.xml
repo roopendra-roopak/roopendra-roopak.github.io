@@ -1,16 +1,1 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Customer Engagement | Dr. Roopendra Roopak</title>
-    <link>http://localhost:1313/blog/customer-engagement/</link>
-      <atom:link href="http://localhost:1313/blog/customer-engagement/index.xml" rel="self" type="application/rss+xml" />
-    <description>Customer Engagement</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language>
-    <image>
-      <url>http://localhost:1313/media/icon_hu16909730233635730475.png</url>
-      <title>Customer Engagement</title>
-      <link>http://localhost:1313/blog/customer-engagement/</link>
-    </image>
-    
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Customer Engagement | Dr. Roopendra Roopak</title><link>https://roopendra-roopak.github.io/blog/customer-engagement/</link><atom:link href="https://roopendra-roopak.github.io/blog/customer-engagement/index.xml" rel="self" type="application/rss+xml"/><description>Customer Engagement</description><generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><image><url>https://roopendra-roopak.github.io/media/icon_hu16909730233635730475.png</url><title>Customer Engagement</title><link>https://roopendra-roopak.github.io/blog/customer-engagement/</link></image></channel></rss>

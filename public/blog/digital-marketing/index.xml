@@ -1,16 +1,1 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Digital Marketing &amp; Strategy | Dr. Roopendra Roopak</title>
-    <link>http://localhost:1313/blog/digital-marketing/</link>
-      <atom:link href="http://localhost:1313/blog/digital-marketing/index.xml" rel="self" type="application/rss+xml" />
-    <description>Digital Marketing &amp; Strategy</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language>
-    <image>
-      <url>http://localhost:1313/media/icon_hu16909730233635730475.png</url>
-      <title>Digital Marketing &amp; Strategy</title>
-      <link>http://localhost:1313/blog/digital-marketing/</link>
-    </image>
-    
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Digital Marketing &amp; Strategy | Dr. Roopendra Roopak</title><link>https://roopendra-roopak.github.io/blog/digital-marketing/</link><atom:link href="https://roopendra-roopak.github.io/blog/digital-marketing/index.xml" rel="self" type="application/rss+xml"/><description>Digital Marketing &amp; Strategy</description><generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><image><url>https://roopendra-roopak.github.io/media/icon_hu16909730233635730475.png</url><title>Digital Marketing &amp; Strategy</title><link>https://roopendra-roopak.github.io/blog/digital-marketing/</link></image></channel></rss>

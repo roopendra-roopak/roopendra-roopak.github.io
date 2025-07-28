@@ -117,7 +117,7 @@ sections:
           "name": "Dr. Roopendra Roopak",
           "jobTitle": "Assistant Professor of Marketing",
           "honorificSuffix": "PhD",
-          "description": "Marketing professor researching customer engagement, online brand communities, and sustainable behaviour."
+          "description": "Marketing professor researching customer engagement, online brand communities, and sustainable behaviour.",
           "affiliation": {
             "@type": "EducationalOrganization",
             "name": "Jindal Global Business School",
@@ -125,7 +125,7 @@ sections:
             "parentOrganization": {
               "@type": "CollegeOrUniversity",
               "name": "O.P. Jindal Global University",
-              "url": "https://jgu.edu.in"
+              "url": "https://jgu.edu.in/"
             }
           },
           "alumniOf": {
@@ -135,7 +135,7 @@ sections:
           },
           "knowsAbout": [
             "Customer Engagement",
-            "Online Brand Communities",
+            "Online Brand Communities"
           ],
           "url": "http://roopendra-roopak.github.io/",
           "sameAs": [

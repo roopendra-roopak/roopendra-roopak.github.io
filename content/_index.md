@@ -106,4 +106,35 @@ sections:
         - text: Instagram
           url: https://www.instagram.com/dr.roopendra.roopak/
           icon: brands/instagram
+- block: markdown
+  content:
+    title: ""
+    text: |-
+      <script type="application/ld+json">
+      {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Dr. Roopendra Roopak",
+        "jobTitle": "Assistant Professor of Marketing",
+        "affiliation": {
+          "@type": "CollegeOrUniversity",
+          "name": "O.P. Jindal Global University"
+        },
+        "alumniOf": {
+        "@type": "CollegeOrUniversity",
+          "name": "Indian Institute of Management Kashipur",
+          "url": "https://www.iimkashipur.ac.in/"
+        },
+        "url": "http://roopendra-roopak.github.io/",
+        "sameAs": [
+          "https://www.linkedin.com/in/roopendra-roopak/",
+          "https://scholar.google.com/citations?user=stFFZ5oAAAAJ",
+          "https://www.researchgate.net/profile/Roopendra-Roopak",
+          "https://orcid.org/0000-0001-7122-2434",
+          "https://x.com/roopakRoopendra",
+          "https://www.instagram.com/dr.roopendra.roopak/"
+        ]
+      }
+      </script>
+
 ---      

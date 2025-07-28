@@ -30,22 +30,8 @@ sections:
           size: cover
           position: center
           parallax: false
-  - block: resume-languages
-    content:
-      title: Languages
-      username: roopendra-roopak
-    design:
-      columns: 2
-      chart: true 
-  - block: resume-skills
-    content:
-      title: Skills & Hobbies
-      # Note: `username` refers to the user's folder name in `content/authors/`
-      username: roopendra-roopak
-    design:
-      columns: 2
-      chart: true 
   - block: markdown
+    id: Research
     content:
       title: 'My Research'
       subtitle: ''
@@ -63,17 +49,6 @@ sections:
         In parallel, I am developing a theoretical stream using [**game theory**](/) to model platform strategies around [**digital consent transparency**](/), and examine its implications for user utility, firm incentives, and public policy.
     design:
       columns: '1'
-# - block: collection
-#   id: papers
-#   content:
-#     title: Featured Publications
-#     filters:
-#       folders:
-#         - publication
-#       featured_only: true
-#   design:
-#     view: article-grid
-#     columns: 2
   - block: collection
     id: publications
     content:
@@ -85,6 +60,21 @@ sections:
         exclude_featured: false
     design:
       view: citation
+  - block: resume-skills
+    content:
+      title: Research Skills
+      # Note: `username` refers to the user's folder name in `content/authors/`
+      username: roopendra-roopak
+    design:
+      columns: 2
+      chart: true 
+  - block: resume-languages
+    content:
+      title: Languages
+      username: roopendra-roopak
+    design:
+      columns: 2
+      chart: true 
   - block: markdown
     id: contact
     content:
@@ -117,44 +107,3 @@ sections:
         - text: Instagram
           url: https://www.instagram.com/dr.roopendra.roopak/
           icon: brands/instagram
-#  - block: collection
-#    id: talks
-#    content:
-#      title: Recent & Upcoming Talks
-#      filters:
-#        folders:
-#          - event
-#    design:
-#      view: article-grid
-#      columns: 1
-
-#  - block: collection
-#    id: news
-#    content:
-#      title: Recent News
-#      subtitle: ''
-#      text: ''
-#      # Page type to display. E.g. post, talk, publication...
-#      page_type: post
-#      # Choose how many pages you would like to display (0 = all pages)
-#      count: 5
-#      # Filter on criteria
-#      filters:
-#        author: ""
-#        category: ""
-#        tag: ""
-#        exclude_featured: false
-#        exclude_future: false
-#        exclude_past: false
-#        publication_type: ""
-#      # Choose how many pages you would like to offset by
-#      offset: 0
-#      # Page order: descending (desc) or ascending (asc) date.
-#      order: desc
-#    design:
-#      # Choose a layout view
-#      view: date-title-summary
-#      # Reduce spacing
-#      spacing:
-#        padding: [0, 0, 0, 0]
----

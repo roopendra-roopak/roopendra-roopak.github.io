@@ -6,7 +6,7 @@ type: landing
 
 design:
   # Default section spacing
-  spacing: "6rem"
+  spacing: "2rem"
 
 sections:
   - block: resume-biography-3
@@ -31,7 +31,7 @@ sections:
           position: center
           parallax: false
   - block: markdown
-    id: Research
+    id: research
     content:
       title: 'My Research'
       subtitle: ''
@@ -82,7 +82,6 @@ sections:
       text: "I am always open to academic conversations, collaborations, or coffee-fueled ideas."
     design:
       columns: '1'
-# 2. Social icons as buttons
   - block: cta-button-list
     content:
       buttons:

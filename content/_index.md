@@ -116,15 +116,39 @@ sections:
           "@type": "Person",
           "name": "Dr. Roopendra Roopak",
           "jobTitle": "Assistant Professor of Marketing",
+          "honorificSuffix": "PhD",
           "affiliation": {
-            "@type": "CollegeOrUniversity",
-            "name": "O.P. Jindal Global University"
+            "@type": "EducationalOrganization",
+            "name": "Jindal Global Business School",
+            "url": "https://jgu.edu.in/jgbs/",
+            "parentOrganization": {
+              "@type": "CollegeOrUniversity",
+              "name": "O.P. Jindal Global University",
+              "url": "https://jgu.edu.in"
+            }
+          },
+          "worksFor": {
+            "@type": "EducationalOrganization",
+            "name": "Jindal Global Business School",
+            "url": "https://jgu.edu.in/jgbs/",
+            "parentOrganization": {
+              "@type": "CollegeOrUniversity",
+              "name": "O.P. Jindal Global University",
+              "url": "https://jgu.edu.in"
+            }
           },
           "alumniOf": {
           "@type": "CollegeOrUniversity",
             "name": "Indian Institute of Management Kashipur",
             "url": "https://www.iimkashipur.ac.in/"
           },
+          "knowsAbout": [
+            "Customer Engagement",
+            "Online Brand Communities",
+            "Sustainable Consumption",
+            "Behavioral Marketing",
+            "Game Theory in Marketing"
+          ],
           "url": "http://roopendra-roopak.github.io/",
           "sameAs": [
             "https://www.linkedin.com/in/roopendra-roopak/",

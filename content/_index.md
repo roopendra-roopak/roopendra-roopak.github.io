@@ -104,7 +104,7 @@ sections:
           url: https://x.com/roopakRoopendra
           icon: brands/x
         - text: Instagram
-          url: https://www.instagram.com/dr.roopendra.roopak/
+          url: https://www.instagram.com/roopendra.roopak/
           icon: brands/instagram
   - block: markdown
     content:
@@ -144,7 +144,7 @@ sections:
             "https://www.researchgate.net/profile/Roopendra-Roopak",
             "https://orcid.org/0000-0001-7122-2434",
             "https://x.com/roopakRoopendra",
-            "https://www.instagram.com/dr.roopendra.roopak/"
+            "https://www.instagram.com/roopendra.roopak/"
           ]
         }
         </script>

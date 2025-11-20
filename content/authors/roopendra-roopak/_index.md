@@ -4,7 +4,7 @@ first_name: Roopendra
 last_name: Roopak
 superuser: true
 highlight_name: true
-role: Assistant Professor of Marketing & Assistant Dean, Office of Career Services (JGBS)
+role: Assistant Professor of Marketing, JGBS
 
 organizations:
   - name: O.P. Jindal Global University
@@ -56,7 +56,6 @@ bio: Roopendra Roopak is an Assistant Professor of Marketing and Assistant Dean 
 
 designations:
   - Assistant Professor
-  - Assistant Dean, Office of Career Services
   - Researcher
   - Academic Mentor
 

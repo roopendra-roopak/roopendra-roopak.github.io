@@ -8,7 +8,6 @@ role: Assistant Professor of Marketing, JGBS
 
 organizations:
   - name: O.P. Jindal Global University
-    url: https://jgu.edu.in/
 
 interests:
   - Customer Engagement
@@ -27,7 +26,6 @@ education:
 skills:
   - name: Structural Equation Modelling
     percent: 90
-    icon: circle-stack
   - name: Qualitative Methodology
     percent: 60
   - name: Econometrics
@@ -35,7 +33,6 @@ skills:
     icon: chart-bar
   - name: R
     percent: 70
-    icon: code-bracket
 
 social:
   - icon: at-symbol
@@ -52,7 +49,7 @@ social:
     link: https://orcid.org/0000-0001-7122-2434
 
 # Short summary for blog post footer
-bio: Roopendra Roopak is an Assistant Professor of Marketing and Assistant Dean at JGBS, specializing in customer engagement and brand communities.
+bio: Roopendra Roopak is an Assistant Professor of Marketing, specializing in customer engagement and brand communities.
 
 designations:
   - Assistant Professor

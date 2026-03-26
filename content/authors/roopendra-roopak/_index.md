@@ -64,4 +64,4 @@ status:
 ---
 
 ## About Me
-Dr. Roopendra Roopak is Assistant Professor of Marketing at [Jindal Global Business School](https://jgu.edu.in/jgbs/) (JGU). He holds a PhD from [IIM Kashipur](https://www.iimkashipur.ac.in), where his research focused on customer engagement in online brand communities. His work spans digital marketing, brand communities, and sustainable consumer behavior, with publications in peer-reviewed journals and presentations at leading academic conferences.
+Dr. Roopendra Roopak is Assistant Professor of Marketing at Jindal Global Business School (JGU). He holds a PhD from [IIM Kashipur](https://www.iimkashipur.ac.in), where his research focused on customer engagement in online brand communities. His work spans digital marketing, brand communities, and sustainable consumer behavior, with publications in peer-reviewed journals and presentations at leading academic conferences.

@@ -113,39 +113,60 @@ sections:
         <script type="application/ld+json">
         {
           "@context": "https://schema.org",
-          "@type": "Person",
+          "@type": "ProfilePage",
+          "@id": "https://roopendra-roopak.github.io/#profilepage",
+          "url": "https://roopendra-roopak.github.io/",
           "name": "Dr. Roopendra Roopak",
-          "jobTitle": "Assistant Professor of Marketing",
-          "honorificSuffix": "PhD",
-          "description": "Marketing professor researching customer engagement, online brand communities, and sustainable behaviour.",
-          "affiliation": {
-            "@type": "EducationalOrganization",
-            "name": "Jindal Global Business School",
-            "url": "https://jgu.edu.in/jgbs/",
-            "parentOrganization": {
+          "description": "Official academic profile of Dr. Roopendra Roopak, Assistant Professor of Marketing at Jindal Global Business School, O.P. Jindal Global University.",
+          "mainEntity": {
+            "@type": "Person",
+            "@id": "https://roopendra-roopak.github.io/#person",
+            "name": "Dr. Roopendra Roopak",
+            "givenName": "Roopendra",
+            "familyName": "Roopak",
+            "honorificPrefix": "Dr.",
+            "honorificSuffix": "PhD",
+            "url": "https://roopendra-roopak.github.io/",
+            "image": "https://roopendra-roopak.github.io/author/dr.-roopendra-roopak/avatar_hu12495728588854631797.jpg",
+            "description": "Assistant Professor of Marketing researching customer engagement, online brand communities, sustainable behaviour, ESG, and digital platforms.",
+            "jobTitle": "Assistant Professor of Marketing",
+            "worksFor": {
+              "@type": "EducationalOrganization",
+              "name": "Jindal Global Business School",
+              "url": "https://jgu.edu.in/jgbs/",
+              "parentOrganization": {
+                "@type": "CollegeOrUniversity",
+                "name": "O.P. Jindal Global University",
+                "url": "https://jgu.edu.in/"
+              }
+            },
+            "affiliation": {
+              "@type": "EducationalOrganization",
+              "name": "Jindal Global Business School",
+              "url": "https://jgu.edu.in/jgbs/"
+            },
+            "alumniOf": {
               "@type": "CollegeOrUniversity",
-              "name": "O.P. Jindal Global University",
-              "url": "https://jgu.edu.in/"
-            }
-          },
-          "alumniOf": {
-          "@type": "CollegeOrUniversity",
-            "name": "Indian Institute of Management Kashipur",
-            "url": "https://www.iimkashipur.ac.in/"
-          },
-          "knowsAbout": [
-            "Customer Engagement",
-            "Online Brand Communities"
-          ],
-          "url": "http://roopendra-roopak.github.io/",
-          "sameAs": [
-            "https://www.linkedin.com/in/roopendra-roopak/",
-            "https://scholar.google.com/citations?user=stFFZ5oAAAAJ",
-            "https://www.researchgate.net/profile/Roopendra-Roopak",
-            "https://orcid.org/0000-0001-7122-2434",
-            "https://x.com/roopakRoopendra",
-            "https://www.instagram.com/roopendra.roopak/"
-          ]
+              "name": "Indian Institute of Management Kashipur",
+              "url": "https://www.iimkashipur.ac.in/"
+            },
+            "knowsAbout": [
+              "Customer Engagement",
+              "Online Brand Communities",
+              "Sustainable Behaviour",
+              "ESG",
+              "Digital Platforms",
+              "Marketing Research"
+            ],
+            "sameAs": [
+              "https://www.linkedin.com/in/roopendra-roopak/",
+              "https://scholar.google.com/citations?user=stFFZ5oAAAAJ",
+              "https://www.researchgate.net/profile/Roopendra-Roopak",
+              "https://orcid.org/0000-0001-7122-2434",
+              "https://x.com/roopakRoopendra",
+              "https://www.instagram.com/roopendra.roopak/"
+            ]
+          }
         }
         </script>
 

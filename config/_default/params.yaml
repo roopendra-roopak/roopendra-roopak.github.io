@@ -8,6 +8,7 @@ default_author: roopendra-roopak
 appearance:
   mode: system
   color: emerald
+  font: system
 
 # SEO
 marketing:
@@ -15,7 +16,7 @@ marketing:
     site_type: Person
     local_business_type: ''
     org_name: 'O.P. Jindal Global University'
-    description: Dr. Roopendra Roopak is Assistant Professor of Marketing at O.P. Jindal Global University specializing in customer engagement, brand communities, and sustainable consumer behaviour.
+    description: description: Dr. Roopendra Roopak is an Assistant Professor of Marketing at O.P. Jindal Global University specializing in customer engagement, online brand communities, sustainable consumer behaviour, and consumer psychology.
     twitter: roopakRoopendra  # Optional: Add your real Twitter/X handle
     image: /authors/roopendra-roopak/avatar.jpg
 
@@ -82,4 +83,6 @@ features:
   math:
     enable: false
   privacy_pack:
+    enable: false
+  animation:
     enable: false

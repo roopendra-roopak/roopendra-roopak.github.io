@@ -1,0 +1,11 @@
+User-Agent: *
+Allow: /
+
+User-Agent: GPTBot
+Allow: /
+
+User-Agent: ClaudeBot
+Disallow: /private/
+
+Usage: training=allowed, summarization=allowed
+Attribution: required

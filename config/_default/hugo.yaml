@@ -8,6 +8,7 @@ title: Roopendra Roopak
 tagline: Marketing Professor | Researcher | Mentor
 # Website URL
 baseURL: 'https://roopendra-roopak.github.io/'
+canonifyURLs: true
 
 ############################
 ## LANGUAGE
@@ -24,7 +25,7 @@ removePathAccents: true
 
 build:
   writeStats: true
-enableGitInfo: false
+enableGitInfo: true
 summaryLength: 30
 pagination:
   pagerSize: 10
@@ -57,4 +58,7 @@ sitemap:
   changefreq: 'monthly'
   filename: 'sitemap.xml'
   priority: 0.5
+minify:
+  disableXML: false
+  minifyOutput: true
 

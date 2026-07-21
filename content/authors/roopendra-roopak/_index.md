@@ -8,7 +8,7 @@ role: Assistant Professor of Marketing, JGBS
 
 organizations:
   - name: O.P. Jindal Global University (JGU)
-    location: Sonipat, India
+  - location: Sonipat, India
   
 interests:
   - Customer Engagement

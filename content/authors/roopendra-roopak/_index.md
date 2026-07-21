@@ -29,7 +29,6 @@ skills:
     percent: 60
   - name: Econometrics
     percent: 50
-    icon: chart-bar
   - name: R
     percent: 70
 

@@ -8,7 +8,8 @@ role: Assistant Professor of Marketing, JGBS
 
 organizations:
   - name: O.P. Jindal Global University (JGU)
-
+    location: Sonipat, India
+  
 interests:
   - Customer Engagement
   - Brand Community
@@ -17,8 +18,6 @@ education:
   - area: PhD in Marketing Management
     institution: Indian Institute of Management Kashipur
     year: 2025
-    thesis_title: Customer Engagement in Online Brand Communities - A Multi-Method Investigation of Psychological Antecedents and Brand Strategies
-    thesis_summary: Explored customer engagement in online brand communities by identifying Need for Validation (NFV) as a key psychological driver. Using a mixed-method   approach and the SOR framework, the study developed and validated strategies for brands to foster validation-driven engagement and long-term participation. Supervised by Prof. (Dr.) Somnath Chakrabarti.
   - area: B. Tech. in Mechanical Engineering
     institution: Lovely Professional University
     year: 2014
@@ -64,4 +63,4 @@ status:
 ---
 
 ## About Me
-Dr. Roopendra Roopak is [Assistant Professor of Marketing at Jindal Global Business School (JGU)](https://jgu.edu.in/jgbs/faculty/roopendra-roopak). He holds a PhD from [IIM Kashipur](https://www.iimkashipur.ac.in/academics/doctoral-programme/our-alumni), where his research focused on customer engagement in online brand communities. His work spans digital marketing, brand communities, and sustainable consumer behaviour, with publications in peer-reviewed journals and presentations at leading academic conferences.
+Dr. Roopendra Roopak is [Assistant Professor of Marketing at Jindal Global Business School (JGU) in Sonipat, India](https://jgu.edu.in/jgbs/faculty/roopendra-roopak). He holds a PhD from [IIM Kashipur](https://www.iimkashipur.ac.in/academics/doctoral-programme/our-alumni), where his research focused on customer engagement in online brand communities. His work spans digital marketing, brand communities, and sustainable consumer behaviour, with publications in peer-reviewed journals and presentations at leading academic conferences.
